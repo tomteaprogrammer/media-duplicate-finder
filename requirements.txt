@@ -1,0 +1,9 @@
+PySide6
+Pillow
+pillow-heif
+ImageHash
+opencv-python
+numpy
+# Optional, for AI/deep matching (large download, about 2.5 GB with CUDA).
+# Install with the "Install CUDA PyTorch" or "Install CPU PyTorch" button in the app,
+# or see the README.

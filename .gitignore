@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+# Files this program writes
+move_manifest_*.csv
+restore_manifest_*.csv
+MediaDuplicateFinder_empty_folders_*.csv
+duplicate_results.csv
+*.media-cache.json.gz
